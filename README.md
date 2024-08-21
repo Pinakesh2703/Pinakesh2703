@@ -80,11 +80,14 @@ I'm a passionate Computer Science student at **V.I.T. Bhopal University**, divin
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
+<br/>
+<br/>
+\
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pinakesh2703&style=flat-square&color=blue" alt="Profile views"/>
+  <img src="https://wallpapers.com/images/hd/jokes-u23yuid4d66mnv4n.jpg"/>
 </div>
 
 ---
