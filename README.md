@@ -82,15 +82,6 @@ I'm a passionate Computer Science student at **V.I.T. Bhopal University**, divin
 </div>
 <br/>
 <br/>
-\
-
----
-
-<div align="center">
-  <img src="https://wallpapers.com/images/hd/jokes-u23yuid4d66mnv4n.jpg"/>
-</div>
-
----
 
 <div align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
