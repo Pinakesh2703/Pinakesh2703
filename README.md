@@ -4,13 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Enthusiast;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
 </div>
 
----
-
 ## 🚀 About Me
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-</div>
 
 I'm a passionate Computer Science student at **V.I.T. Bhopal University**, diving deep into the world of code and innovation. My journey in tech is fueled by curiosity and a drive to create impactful solutions.
 
@@ -58,26 +53,19 @@ I'm a passionate Computer Science student at **V.I.T. Bhopal University**, divin
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pinakesh2703&show_icons=true&theme=radical" alt="Pinakesh's GitHub stats" />
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Pinakesh2703&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <br/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pinakesh2703&theme=radical" alt="Pinakesh's GitHub Streak" />
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Pinakesh2703&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pinakesh2703&layout=compact&theme=radical" alt="Top Languages" />
+ 
 </div>
 
----
+</div>
 
-## 🏅 Certifications
-
-- 🎓 **NPTEL:** Cloud Computing by IIT Kharagpur (Elite + Silver)
-- 🥈 **HackerRank:** Problem Solving (Intermediate)
-- 📜 **Google:** Bits and Bytes of Computer Networking, Fundamentals of Digital Marketing
-- 🏅 **Foundit:** Zuno Fellowship Programme
-
----
 
 ## 🤝 Let's Connect!
 
