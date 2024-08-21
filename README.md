@@ -1,7 +1,7 @@
-<h1 align="center">👋 Hello, World! I'm <a href="https://github.com/Pinakesh2703">Pinakesh Chattopadhyay</a></h1>
+<h1 align="center"><em>👋 Hello, World! I'm <a href="https://github.com/Pinakesh2703">Pinakesh Chattopadhyay</a><em></em></h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Enthusiast;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -85,5 +85,5 @@ I'm a passionate Computer Science student at **V.I.T. Bhopal University**, divin
 
 <div align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
-  <em><b>I love connecting with different people</b> so if you want to say <b>hi</b>, I'll be happy to meet you!</em> 😊
+  <h2><em><b>I love connecting with different people</b> so if you want to say <b>hi</b>, I'll be happy to meet you!</em> 😊</h2>
 </div>
