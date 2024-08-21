@@ -28,7 +28,7 @@ I'm a passionate Computer Science student at **V.I.T. Bhopal University**, divin
 ## 🏆 Featured Projects
 
 ### SEE-curity: AI-based Surveillance System
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdtbjhwOWM4Z2RpMjk1NWI3MHE4ZmFxcHg4Ync5aHVsZXl6ZHV0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300" align="right">
+<img src="https://media1.giphy.com/media/KszkcokOMwO6s2aJ99/200w.gif?cid=6c09b952xxj5u09xvfu3l0serukag80jpkuqnvgjc99rz2d3&ep=v1_gifs_search&rid=200w.gif&ct=g" width="300" align="right">
 
 - 🧠 Developed using **COCO-SSD Model** with 70% accuracy in human detection
 - 🎥 Real-time video processing reducing storage by 75%
