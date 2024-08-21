@@ -61,7 +61,9 @@ I'm a passionate Computer Science student at **V.I.T. Bhopal University**, divin
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pinakesh2703&show_icons=true&theme=radical" alt="Pinakesh's GitHub stats" />
   <br/>
+  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pinakesh2703&theme=radical" alt="Pinakesh's GitHub Streak" />
+  <br/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pinakesh2703&layout=compact&theme=radical" alt="Top Languages" />
 </div>
