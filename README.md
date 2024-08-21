@@ -10,10 +10,10 @@
 I'm a passionate Computer Science student at **V.I.T. Bhopal University**, diving deep into the world of code and innovation. My journey in tech is fueled by curiosity and a drive to create impactful solutions.
 
 - 🔭 I’m currently working on enhancing my AI-based Surveillance System
-- 🌱 I’m expanding my knowledge in **advanced React** and **TensorFlow.js**
+- 🌱 I’m expanding my knowledge in **advanced React** and **Next.js**
 - 👯 I’m looking to collaborate on **open-source projects**
-- 💬 Ask me about **Full Stack Development**, **AI**, and **Cloud Computing**
-- ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
+- 💬 Ask me about **Full Stack Development**
+
 
 ---
 
